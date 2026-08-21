@@ -1,0 +1,1 @@
+{"framework": "pytorch", "test_acc": 0.8944, "train_acc": 1.0, "seconds": 9.6}
